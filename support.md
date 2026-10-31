@@ -1,17 +1,17 @@
-# Linkview Support
+# Connection? Support
 
-Need help or found a problem? Email stechnologies.hawaii@gmail.com. Please include your iPhone model, your iOS version and what Linkview showed.
+Need help or found a problem? Email stechnologies.hawaii@gmail.com. Please include your iPhone model, your iOS version and what the app showed.
 
 ## Common questions
 
-**Why does Linkview ask for my location?**
-iOS requires precise location permission before an app can read your Wi-Fi network's name. Linkview uses it only for that, and doesn't read or store your location.
+**Why does the app ask for my location?**
+iOS requires precise location permission before an app can read your Wi-Fi network's name. The app uses it only for that, and doesn't read or store your location.
 
-**Why does Linkview ask for Local Network access?**
-If your internet stops working, Linkview checks whether your router is responding, which helps tell a router problem from a provider problem. If you decline, Linkview can still tell you the internet is unreachable, but can't say which one is at fault.
+**Why does the app ask for Local Network access?**
+If your internet stops working, the app checks whether your router is responding, which helps tell a router problem from a provider problem. If you decline, the app can still tell you the internet is unreachable, but can't say which one is at fault.
 
 **Why doesn't Outage History show every outage?**
-iOS limits background checks, so Linkview only records while it's open. If the app closes during an outage, the recorded length is a minimum.
+iOS limits background checks, so the app only records while it's open. If the app closes during an outage, the recorded length is a minimum.
 
 **Why does the provider name look unusual?**
 It comes from public internet registries, which may list a company's registered or network name rather than its brand. With a VPN on, you'll see the VPN's network instead.
